@@ -1,0 +1,4 @@
+
+app:
+    resource: "@VersuchstoerungsmelderBundle/Controller/"
+    type:     annotation
